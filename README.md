@@ -1,2 +1,2 @@
 # codeChefPractice
-Solving practice problems on CodeChef
+Solving contest problems on CodeChef
